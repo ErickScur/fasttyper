@@ -1,2 +1,2 @@
 # Fast Typer
-Jogo desenvolvido durante o curso de jQuery do Alura
+Jogo desenvolvido durante o curso de jQuery básico do Alura
